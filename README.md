@@ -49,6 +49,11 @@ SESSION_SECRET=your_session_secret
 
 Replace the placeholder values with your actual credentials.
 
+## Steps to Use
+
+1. **Sign Up or Log In**: Create an account or log in with your existing account.
+2. **Add Your Places**: Once logged in, you can add your places to the platform.
+
 ## Upcoming Features
 
 More features will be added soon.
