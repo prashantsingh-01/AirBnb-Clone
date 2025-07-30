@@ -5,9 +5,10 @@ Welcome to the **Airbnb Clone**! This is a full-stack web application inspired b
 ## 🚀 Live Demo
 
 🔗 **[View Live Project](https://airbnb-clone-893i.onrender.com)**
-** Login Credentials **
-Username : demo
-password : demo
+
+> **Login Credentials:**
+> - **Username:** demo  
+> - **Password:** demo
 
 ## 📦 Installation
 
